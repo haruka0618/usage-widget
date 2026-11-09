@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-10T05:07:32+09:00",
+  "updated_at": "2026-11-10T05:22:02+09:00",
   "muse": {
-    "label": "Muse",
-    "weekly_used_percent": 59,
-    "weekly_left_percent": 41,
-    "weekly_resets_at": "2026-11-15T14:57:00+09:00",
     "bonus_tokens_left": "1B",
-    "bonus_used_percent": 0
+    "bonus_used_percent": 0,
+    "label": "Muse",
+    "weekly_left_percent": 40,
+    "weekly_resets_at": "2026-11-15T14:57:00+09:00",
+    "weekly_used_percent": 60
   },
   "claude": null,
   "opencode": {
     "label": "OpenCode Go",
-    "rolling_used_percent": 34,
+    "monthly_left_percent": 60,
+    "monthly_resets_at": "2026-12-07T21:35:43+09:00",
+    "monthly_used_percent": 40,
     "rolling_left_percent": 66,
     "rolling_resets_at": "2026-11-10T06:15:30+09:00",
-    "weekly_used_percent": 29,
+    "rolling_used_percent": 34,
     "weekly_left_percent": 71,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
-    "monthly_used_percent": 40,
-    "monthly_left_percent": 60,
-    "monthly_resets_at": "2026-12-07T21:35:43+09:00"
+    "weekly_used_percent": 29
   }
 }
