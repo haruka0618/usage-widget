@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10T02:51:33+09:00",
+  "updated_at": "2026-11-10T03:36:25+09:00",
   "muse": {
     "label": "Muse",
-    "weekly_used_percent": 56,
-    "weekly_left_percent": 44,
+    "weekly_used_percent": 58,
+    "weekly_left_percent": 42,
     "weekly_resets_at": "2026-11-15T14:57:00+09:00",
     "bonus_tokens_left": "1B",
     "bonus_used_percent": 0
@@ -11,8 +11,8 @@
   "claude": null,
   "opencode": {
     "label": "OpenCode Go",
-    "rolling_used_percent": 30,
-    "rolling_left_percent": 70,
+    "rolling_used_percent": 31,
+    "rolling_left_percent": 69,
     "rolling_resets_at": "2026-11-10T06:15:30+09:00",
     "weekly_used_percent": 27,
     "weekly_left_percent": 73,
