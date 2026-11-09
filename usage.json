@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:38:12+09:00",
+  "updated_at": "2026-11-10T02:06:50+09:00",
   "muse": {
     "label": "Muse",
     "weekly_used_percent": 55,
@@ -11,14 +11,14 @@
   "claude": null,
   "opencode": {
     "label": "OpenCode Go",
-    "rolling_used_percent": 0,
-    "rolling_left_percent": 100,
+    "rolling_used_percent": 6,
+    "rolling_left_percent": 94,
     "rolling_resets_at": "2026-11-10T06:15:30+09:00",
-    "weekly_used_percent": 15,
-    "weekly_left_percent": 85,
+    "weekly_used_percent": 18,
+    "weekly_left_percent": 82,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
-    "monthly_used_percent": 33,
-    "monthly_left_percent": 67,
+    "monthly_used_percent": 34,
+    "monthly_left_percent": 66,
     "monthly_resets_at": "2026-12-07T21:35:43+09:00"
   }
 }
