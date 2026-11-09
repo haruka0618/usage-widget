@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:19:37+09:00",
+  "updated_at": "2026-11-10T01:03:21+09:00",
   "muse": {
     "label": "Muse",
     "weekly_used_percent": 54,
@@ -9,5 +9,16 @@
     "bonus_used_percent": 0
   },
   "claude": null,
-  "opencode": null
+  "opencode": {
+    "label": "OpenCode Go",
+    "rolling_used_percent": 38,
+    "rolling_left_percent": 62,
+    "rolling_resets_at": "2026-11-10T01:14:05+09:00",
+    "weekly_used_percent": 15,
+    "weekly_left_percent": 85,
+    "weekly_resets_at": "2026-11-16T09:00:00+09:00",
+    "monthly_used_percent": 33,
+    "monthly_left_percent": 67,
+    "monthly_resets_at": "2026-12-07T21:35:43+09:00"
+  }
 }
