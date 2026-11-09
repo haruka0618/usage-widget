@@ -1,6 +1,14 @@
 {
-    "updated_at":  "2026-11-10T05:03:23+09:00",
-    "claude":  null,
+    "updated_at":  "2026-11-10T05:48:20+09:00",
+    "claude":  {
+                   "label":  "Claude",
+                   "session_used_percent":  14,
+                   "session_left_percent":  86,
+                   "session_resets_at":  "2026-11-10T06:20:00+09:00",
+                   "weekly_used_percent":  6,
+                   "weekly_left_percent":  94,
+                   "weekly_resets_at":  "2026-11-14T08:00:00+09:00"
+               },
     "codex":  {
                   "label":  "Codex",
                   "session_used_percent":  0,
