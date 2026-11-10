@@ -13,12 +13,12 @@
     "monthly_left_percent": 59,
     "monthly_resets_at": "2026-12-07T21:35:43+09:00",
     "monthly_used_percent": 41,
-    "rolling_left_percent": 98,
+    "rolling_left_percent": 97,
     "rolling_resets_at": "2026-11-10T17:03:24+09:00",
-    "rolling_used_percent": 2,
-    "weekly_left_percent": 70,
+    "rolling_used_percent": 3,
+    "weekly_left_percent": 69,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
-    "weekly_used_percent": 30
+    "weekly_used_percent": 31
   },
-  "updated_at": "2026-11-10T16:06:52+09:00"
+  "updated_at": "2026-11-10T16:21:48+09:00"
 }
