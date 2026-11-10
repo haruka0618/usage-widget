@@ -14,11 +14,11 @@
     "monthly_resets_at": "2026-12-07T21:35:43+09:00",
     "monthly_used_percent": 40,
     "rolling_left_percent": 100,
-    "rolling_resets_at": "2026-11-10T12:01:47+09:00",
+    "rolling_resets_at": "2026-11-10T17:03:24+09:00",
     "rolling_used_percent": 0,
     "weekly_left_percent": 71,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
     "weekly_used_percent": 29
   },
-  "updated_at": "2026-11-10T10:06:25+09:00"
+  "updated_at": "2026-11-10T12:07:00+09:00"
 }
