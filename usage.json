@@ -4,9 +4,9 @@
     "bonus_tokens_left": "1B",
     "bonus_used_percent": 0,
     "label": "Muse",
-    "weekly_left_percent": 15,
+    "weekly_left_percent": 14,
     "weekly_resets_at": "2026-11-15T14:57:00+09:00",
-    "weekly_used_percent": 85
+    "weekly_used_percent": 86
   },
   "opencode": {
     "label": "OpenCode Go",
@@ -20,5 +20,5 @@
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
     "weekly_used_percent": 35
   },
-  "updated_at": "2026-11-11T08:51:51+09:00"
+  "updated_at": "2026-11-11T09:06:52+09:00"
 }
