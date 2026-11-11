@@ -10,15 +10,15 @@
   },
   "opencode": {
     "label": "OpenCode Go",
-    "monthly_left_percent": 55,
+    "monthly_left_percent": 54,
     "monthly_resets_at": "2026-12-07T21:35:43+09:00",
-    "monthly_used_percent": 45,
+    "monthly_used_percent": 46,
     "rolling_left_percent": 100,
     "rolling_resets_at": "2026-11-12T10:14:36+09:00",
     "rolling_used_percent": 0,
-    "weekly_left_percent": 61,
+    "weekly_left_percent": 60,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
-    "weekly_used_percent": 39
+    "weekly_used_percent": 40
   },
-  "updated_at": "2026-11-12T05:21:50+09:00"
+  "updated_at": "2026-11-12T05:36:53+09:00"
 }
