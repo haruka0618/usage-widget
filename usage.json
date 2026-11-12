@@ -1,7 +1,7 @@
 {
   "claude": null,
   "muse": {
-    "bonus_tokens_left": "990M",
+    "bonus_tokens_left": "989M",
     "bonus_used_percent": 1,
     "label": "Muse",
     "weekly_left_percent": 0,
@@ -20,5 +20,5 @@
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
     "weekly_used_percent": 42
   },
-  "updated_at": "2026-11-13T06:36:52+09:00"
+  "updated_at": "2026-11-13T06:51:25+09:00"
 }
