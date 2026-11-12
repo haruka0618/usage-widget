@@ -1,7 +1,7 @@
 {
   "claude": null,
   "muse": {
-    "bonus_tokens_left": "998M",
+    "bonus_tokens_left": "997M",
     "bonus_used_percent": 0,
     "label": "Muse",
     "weekly_left_percent": 0,
@@ -13,12 +13,12 @@
     "monthly_left_percent": 54,
     "monthly_resets_at": "2026-12-07T21:35:43+09:00",
     "monthly_used_percent": 46,
-    "rolling_left_percent": 98,
-    "rolling_resets_at": "2026-11-12T15:22:42+09:00",
-    "rolling_used_percent": 2,
+    "rolling_left_percent": 100,
+    "rolling_resets_at": "2026-11-12T20:24:25+09:00",
+    "rolling_used_percent": 0,
     "weekly_left_percent": 59,
     "weekly_resets_at": "2026-11-16T09:00:00+09:00",
     "weekly_used_percent": 41
   },
-  "updated_at": "2026-11-12T15:21:51+09:00"
+  "updated_at": "2026-11-12T15:36:47+09:00"
 }
