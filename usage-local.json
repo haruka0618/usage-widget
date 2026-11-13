@@ -1,9 +1,9 @@
 {
-    "updated_at":  "2026-11-14T06:03:21+09:00",
+    "updated_at":  "2026-11-14T06:18:21+09:00",
     "claude":  {
                    "label":  "Claude",
-                   "session_used_percent":  21,
-                   "session_left_percent":  79,
+                   "session_used_percent":  23,
+                   "session_left_percent":  77,
                    "session_resets_at":  "2026-11-14T07:30:00+09:00",
                    "weekly_used_percent":  78,
                    "weekly_left_percent":  22,
@@ -11,8 +11,8 @@
                },
     "codex":  {
                   "label":  "Codex",
-                  "session_used_percent":  9,
-                  "session_left_percent":  91,
+                  "session_used_percent":  10,
+                  "session_left_percent":  90,
                   "session_resets_at":  "2026-11-14T08:39:00+09:00",
                   "weekly_used_percent":  37,
                   "weekly_left_percent":  63,
