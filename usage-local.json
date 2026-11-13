@@ -1,9 +1,9 @@
 {
-    "updated_at":  "2026-11-14T02:03:20+09:00",
+    "updated_at":  "2026-11-14T02:18:27+09:00",
     "claude":  {
                    "label":  "Claude",
-                   "session_used_percent":  31,
-                   "session_left_percent":  69,
+                   "session_used_percent":  32,
+                   "session_left_percent":  68,
                    "session_resets_at":  "2026-11-14T02:20:00+09:00",
                    "weekly_used_percent":  75,
                    "weekly_left_percent":  25,
