@@ -1,21 +1,21 @@
 {
-    "updated_at":  "2026-11-13T17:18:21+09:00",
+    "updated_at":  "2026-11-13T17:33:21+09:00",
     "claude":  {
                    "label":  "Claude",
-                   "session_used_percent":  10,
-                   "session_left_percent":  90,
-                   "session_resets_at":  "2026-11-13T21:20:00+09:00",
+                   "session_used_percent":  12,
+                   "session_left_percent":  88,
+                   "session_resets_at":  "2026-11-13T21:19:00+09:00",
                    "weekly_used_percent":  67,
                    "weekly_left_percent":  33,
-                   "weekly_resets_at":  "2026-11-14T08:00:00+09:00"
+                   "weekly_resets_at":  "2026-11-14T07:59:00+09:00"
                },
     "codex":  {
                   "label":  "Codex",
-                  "session_used_percent":  0,
-                  "session_left_percent":  100,
-                  "session_resets_at":  null,
-                  "weekly_used_percent":  33,
-                  "weekly_left_percent":  67,
+                  "session_used_percent":  1,
+                  "session_left_percent":  99,
+                  "session_resets_at":  "2026-11-13T22:22:00+09:00",
+                  "weekly_used_percent":  34,
+                  "weekly_left_percent":  66,
                   "weekly_resets_at":  "2026-11-18T10:35:00+09:00"
               }
 }
