@@ -3,9 +3,9 @@
   "muse": {
     "bonus_tokens_left": "945M",
     "bonus_used_percent": 5,
-    "weekly_left_percent": 39,
+    "weekly_left_percent": 37,
     "weekly_resets_at": "2026-11-22T15:06:00+09:00",
-    "weekly_used_percent": 61
+    "weekly_used_percent": 63
   },
   "opencode": {
     "monthly_left_percent": 51,
@@ -18,5 +18,5 @@
     "weekly_resets_at": "2026-11-23T09:00:00+09:00",
     "weekly_used_percent": 1
   },
-  "updated_at": "2026-11-20T08:21:44+09:00"
+  "updated_at": "2026-11-20T09:37:00+09:00"
 }
