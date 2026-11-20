@@ -3,20 +3,20 @@
   "muse": {
     "bonus_tokens_left": "945M",
     "bonus_used_percent": 5,
-    "weekly_left_percent": 27,
+    "weekly_left_percent": 26,
     "weekly_resets_at": "2026-11-22T15:06:00+09:00",
-    "weekly_used_percent": 73
+    "weekly_used_percent": 74
   },
   "opencode": {
     "monthly_left_percent": 51,
     "monthly_resets_at": "2026-12-07T21:35:43+09:00",
     "monthly_used_percent": 49,
     "rolling_left_percent": 100,
-    "rolling_resets_at": "2026-11-21T09:21:34+09:00",
+    "rolling_resets_at": "2026-11-21T09:36:31+09:00",
     "rolling_used_percent": 0,
     "weekly_left_percent": 98,
     "weekly_resets_at": "2026-11-23T09:00:00+09:00",
     "weekly_used_percent": 2
   },
-  "updated_at": "2026-11-21T04:22:08+09:00"
+  "updated_at": "2026-11-21T04:37:08+09:00"
 }
